@@ -1,0 +1,15 @@
+Hey man,
+Github is great, and you'll figure it out sooner or later. It's not just for code, it's everything you can drop into this folder. It's like a Google Docs that lives on your hard drive.
+
+I'll be checking docs in soon, when it comes, can't edit PDF's, but Pages or anything else will do fine.
+
+Download this: https://mac.github.com/ and login.
+
+Go here: https://github.com/sammccord/obelisk
+-- Click "Clone in Desktop on the bottom right side"
+
+Check out the new folder, edit stuff, drag in files, whatever.
+
+Whenever you're done editing a file in the folder, ready to save to the CLOUD for me or anyone else to see, open the Github app.
+--Write a nice message and click "Commit"
+----Click "Sync" on the top right to apply your changes
