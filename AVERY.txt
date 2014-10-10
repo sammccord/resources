@@ -10,6 +10,8 @@ Go here: https://github.com/sammccord/obelisk
 
 Check out the new folder, edit stuff, drag in files, whatever.
 
-Whenever you're done editing a file in the folder, ready to save to the CLOUD for me or anyone else to see, open the Github app.
+Whenever you want to back anything up, ready to save to the CLOUD for me or anyone else to see, open the Github app.
 --Write a nice message and click "Commit"
 ----Click "Sync" on the top right to apply your changes
+
+You'll figure it out. Plenty of explanations on line, and I'm always here if you have any questions.
